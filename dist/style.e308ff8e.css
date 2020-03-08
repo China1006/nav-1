@@ -22,12 +22,12 @@ img {
 }
 /*style*/
 body {
-  background: url("images/2.jpg");
+  background: url("/2.adddeb7c.jpg");
   background-size: cover;
 }
 @media (min-width: 500px) {
   body {
-    background: url("images/1.jpg");
+    background: url("/1.106c6bd6.jpg");
     background-size: cover;
   }
 }
@@ -173,3 +173,6 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */

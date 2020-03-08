@@ -10,6 +10,22 @@ const hashMap = xObject || [
   {
     logo: "B",
     url: "https://www.bilibili.com"
+  },
+  {
+    logo: "G",
+    url: "https://www.github.com"
+  },
+  {
+    logo: "M",
+    url: "https://developer.mozilla.org/zh-CN/"
+  },
+  {
+    logo: "C",
+    url: "https://cssgradient.io/"
+  },
+  {
+    logo: "I",
+    url: "https://www.iconfont.cn/home/index?spm=a313x.7781069.1998910419.2"
   }
 ];
 const simplifyUrl = url => {
