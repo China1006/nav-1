@@ -22,7 +22,7 @@ img {
 }
 /*style*/
 body {
-  background: url("/2.adddeb7c.jpg");
+  background: no-repeat url("/2.adddeb7c.jpg");
   background-size: cover;
 }
 @media (min-width: 500px) {

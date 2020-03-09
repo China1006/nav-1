@@ -22,7 +22,7 @@ img {
 }
 /*style*/
 body {
-  background: url("images/2.jpg");
+  background: no-repeat url("images/2.jpg");
   background-size: cover;
 }
 @media (min-width: 500px) {
